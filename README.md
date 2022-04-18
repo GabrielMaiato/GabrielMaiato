@@ -3,7 +3,8 @@
 - 🌱 Estudando:
      -  HTML5;
      -  CSS3;
-     -  JavaScript;
+     -  JavaScript; 
+     -PHP 7  
 
 <div align="center">
   <a href="https://github.com/GabrielMaiato">
