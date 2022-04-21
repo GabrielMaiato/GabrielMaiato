@@ -6,8 +6,6 @@
      -  JavaScript; 
 
 <div align="center">
-  <a href="https://github.com/GabrielMaiato">
-  <img height="180em" src="https://scontent.fpoa8-1.fna.fbcdn.net/v/t39.30808-6/269750980_5005332319479670_8782559197634697993_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Qp6SrUtIUhAAX9Pv9ls&_nc_ht=scontent.fpoa8-1.fna&oh=00_AT95FeKjuH7tvO3fYJBklUuqNEEXzoR5mKCgSUiK-17bwQ&oe=62443C40"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMaiato&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
